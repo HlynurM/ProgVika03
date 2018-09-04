@@ -6,14 +6,11 @@
 # if number is negative exit loop
 # while the number is positive
 # ask for a new number
-# if number is not negative keep going else break
 # check if new number is bigger than old number (max_int)
 # if number is bigger then make new number max_int
-# if the number
+# when input is negative the loop stops
 
 # after loop is stopped print current max_int number
-
-
 
 
 num_int = int(input("Input a number: "))    # Do not change this line
