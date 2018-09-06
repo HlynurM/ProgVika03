@@ -1,3 +1,6 @@
 s = input("Input a string: ")
 # your code here
-print(s)
+
+new_string = s[3:] + s[:3]
+
+print(new_string)
